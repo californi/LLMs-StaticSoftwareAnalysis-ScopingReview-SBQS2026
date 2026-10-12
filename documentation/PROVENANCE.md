@@ -15,3 +15,5 @@ Author names/order follow the user-supplied JEMS submission page. Institutional 
 The Gemini workflow declaration is based on the author's confirmation in this preparation session. Prompts, model versions, and original interaction logs were not supplied.
 
 Bibliographic correction for A26: final publisher record https://www.techscience.com/cmc/v86n3/65509 confirms 2026, 86(3), citation locator 11. Original Crossref/early-publication fields 2025, volume 0 and issue 0 were superseded only in the manuscript and derived index.
+
+Bibliographic correction for B14: the published HICSS PDF lists Will Klieber first and Lori Flynn second, with pages 7556–7565. https://scholarspace.manoa.hawaii.edu/items/42b220fa-17f8-4cfe-9f2b-ba4553e21bc3 . The derived index and manuscript use this order; the original candidate workbook remains untouched. The lookup corrects metadata of an existing corpus member and does not add a study.

@@ -13,3 +13,7 @@ Differences preserved and documented:
 Bibliographic metadata in the derived 58-publication index follows the supplied BibTeX, while original candidate records are preserved. A26 has year 2025 in the supplied BibTeX, but the publisher’s final record confirms 2026, volume 86, issue 3, citation locator 11 (https://www.techscience.com/cmc/v86n3/65509). The derived index uses 2026; the original workbook and its metadata remain unchanged. Titles and author metadata in some historical WoS rows are abbreviated or anonymized; the index is not a wholesale correction of the original workbook.
 
 Counts of venue forms use BibTeX entry types for the same 58 IDs: 32 inproceedings, 23 article, and three incollection entries. Publication format (full/short paper) was not consistently recorded. Survey classification is inherited from the original manuscript; this release does not reclassify study eligibility or research design.
+
+## Bibliographic author order for B14
+
+The original BibTeX/indexer record lists Flynn, Klieber, but the published HICSS PDF lists Klieber, Flynn (pages 7556–7565). The derived final-corpus index follows the published PDF. IDs, eligibility, RQ labels, and original candidate files are unchanged. Source: https://scholarspace.manoa.hawaii.edu/items/42b220fa-17f8-4cfe-9f2b-ba4553e21bc3 .
