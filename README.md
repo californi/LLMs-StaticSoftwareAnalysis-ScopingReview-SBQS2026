@@ -24,7 +24,7 @@ The protocol is in the original package. Use the 58-publication index to identif
 
 ## AI support
 
-Google Gemini, accessed through an institutional account, supported a semi-automated workflow. The two first authors conducted screening; all decisions were reviewed by the authors and required their confirmation. The available package does not include model versions, prompts, or interaction logs. AI also supported editorial and consistency work during camera-ready preparation.
+The two first authors manually screened studies by reading titles and abstracts; no LLM was used for study screening or inclusion and exclusion decisions. Google Gemini, accessed through an institutional account, assisted only in preparing the final table of articles after study selection. The authors checked and confirmed its output. The available package does not include model versions, prompts, or interaction logs for this table-preparation assistance. AI also supported editorial and consistency work during camera-ready preparation.
 
 ## Scope
 
