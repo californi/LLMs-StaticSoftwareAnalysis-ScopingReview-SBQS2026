@@ -1,0 +1,84 @@
+Source Sheet,Original ID,Manuscript ID/Mapping,Title,Original Status,Manuscript-aligned Status,Note
+Screening Scopus,A01,A01,Leveraging Open-Source LLMs for Zero-Shot Vulnerability Detection: A Comparative Analysis,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening Scopus,A02,A02,Review of Large Language Model-Based Software Fault Localization Techniques,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening Scopus,A03,A03,Explaining Software Vulnerabilities with Large Language Models,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening Scopus,A04,A04,LLMSecConfig: An LLM-Based Approach for Fixing Software Container Misconfigurations,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening Scopus,A05,A05,The Emergence of Large Language Models in Static Analysis: A First Look through Micro-Benchmarks,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening Scopus,A06,A06,Harnessing the Power of LLMs for Code Smell Detection in Terraform Infrastructure as Code,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening Scopus,A08,A08,Boosting Static Resource Leak Detection via LLM-based Resource-Oriented Intention Inference,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening Scopus,A09,A09,Fact-Aligned and Template-Constrained Static Analyzer Rule Enhancement with LLMs,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening Scopus,A12,A12,Evaluation of Static Analysis and Transformer-Based LLMs for IoT Firmware Security,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening Scopus,A13,A13,MCP-based AI coding agent Integrating Static Analysis for Web Accessibility Error Correction,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening Scopus,A14,A14,SmartAudiTor: A hybrid smart contract vulnerability auditing framework based on LLM-guided and symbolic execution verification,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening Scopus,A15,A15,SAGE-Prompt: An effective semantic-aware graph enhanced prompting technique for smart contract vulnerability detection,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening Scopus,A16,A16,DCoL-A: Agentic dual chain of thinking helps LLMs pretend logic solvers,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening Scopus,A17,A17,Hierarchical graph transformer with adaptive community integration for smart contract vulnerability detection,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening Scopus,A19,A19,Leveraging Large Language Models for advanced static code analysis: Assessing the feasibility of AI superseding traditional vulnerability detection methods,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening Scopus,A21,A21,An Empirical Analysis of ESLint Information Components and Their Interactions in LLM-based Program Repair,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening Scopus,A24,A24,"Large language model (LLM) for software security: Code analysis, malware analysis, reverse engineering",INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening Scopus,A25,A25,GPTVD: vulnerability detection and analysis method based on LLM's chain of thoughts,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening Scopus,A26,A26,Integration of Large Language Models (LLMs) and Static Analysis for Improving the Efficacy of Security Vulnerability Detection in Source Code,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening Scopus,A27,A27,An evaluation study of large language models for addressing code quality issues,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening Scopus,A29,A29,CASTLE: Benchmarking Dataset for Static Code Analyzers and LLMs Towards CWE Detection,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening Scopus,A30,A30,Research on Binary Decompilation Optimization Based on Fine-Tuned Large Language Models for Vulnerability Detection,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening Scopus,A31,A31,CPGHunter: LLM-guided semantic modeling for scalable vulnerability detection via taint analysis,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening Scopus,A33,A33,Helping LLMs improve code generation using feedback from testing and static analysis,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening Scopus,A34,A34,Assisting Static Analysis with Large Language Models: A ChatGPT Experiment,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening Scopus,A35,A35,A New Approach to Web Application Security: Utilizing GPT Language Models for Source Code Inspection,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening Scopus,A07,A07,Malware Detection and Analysis Using LLMs: A Review of Emerging Trends and Techniques,EXCLUDED,EXCLUDED,Listed among the 13 non-duplicate exclusions in the submitted manuscript.
+Screening Scopus,A10,A10,Hybrid Privacy Policy-Code Consistency Check using Knowledge Graphs and LLMs,EXCLUDED,EXCLUDED,Listed among the 13 non-duplicate exclusions in the submitted manuscript.
+Screening Scopus,A11,A11,LuaTaint: A Static Analysis System for Web Configuration Interface Vulnerability of Internet of Things Devices,EXCLUDED,EXCLUDED,Listed among the 13 non-duplicate exclusions in the submitted manuscript.
+Screening Scopus,A18,A18,ChatPRE: Knowledge-aware protocol analysis with LLMs for intelligent segmentation,EXCLUDED,EXCLUDED,Listed among the 13 non-duplicate exclusions in the submitted manuscript.
+Screening Scopus,A20,A20,Exploiting Contexts of LLM-based Code-Completion,EXCLUDED,EXCLUDED,Listed among the 13 non-duplicate exclusions in the submitted manuscript.
+Screening Scopus,A22,A22,Leveraging Human Insights for Enhanced LLM-based Code Repair,EXCLUDED,EXCLUDED,Listed among the 13 non-duplicate exclusions in the submitted manuscript.
+Screening Scopus,A23,A23,ChatAssert: LLM-Based Test Oracle Generation With External Tools Assistance,EXCLUDED,EXCLUDED,Listed among the 13 non-duplicate exclusions in the submitted manuscript.
+Screening Scopus,A28,A28,OOPS: Automated generation of REST API specification via LLMs,EXCLUDED,EXCLUDED,Listed among the 13 non-duplicate exclusions in the submitted manuscript.
+Screening Scopus,A32,A32,Environment-in-The-Loop: Rethinking Code Migration with LLM-based Agents,EXCLUDED,EXCLUDED,Listed among the 13 non-duplicate exclusions in the submitted manuscript.
+Screening IEEE,A01,B01,Enhancing Static Analysis for ICC Resolution: An LLM-Integrated Approach,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening IEEE,A02,B02,LitterBox+: An Extensible Framework for LLM-enhanced Scratch Static Code Analysis,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening IEEE,A03,B03,Malicious Code Detection Using LLM,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening IEEE,A04,B04,Verifying Event Completeness and Consistency in Token Contracts via Static Analysis and LLMs,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening IEEE,A05,B05,Fact-Aligned and Template-Constrained Static Analyzer Rule Enhancement with LLMs,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening IEEE,A06,B06,Combining Large Language Models with Static Analyzers for Code Review Generation,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening IEEE,A07,B07,The Emergence of Large Language Models in Static Analysis: A First Look Through Micro-Benchmarks,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening IEEE,A08,B08,AI-Enhanced Static Analysis: Reducing False Alarms Using Large Language Models,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening IEEE,A09,B09,LLM-Powered Automated Detection and Optimization of Inference Bottlenecks in Distributed Systems: A Static Analysis Approach,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening IEEE,A10,B10,Augmenting Large Language Models with Static Code Analysis for Automated Code Quality Improvements,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening IEEE,A11,B11,Large Language Models Versus Static Code Analysis Tools: A Systematic Benchmark for Vulnerability Detection,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening IEEE,A12,B12,Leveraging Large Language Models (LLMs) for Automated Bug Detection and Resolution in Software Engineering,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening IEEE,A13,B13,Bridging the Gap Using GPT-4 to Summarize and Explain Static Analysis Warnings at Scale,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening IEEE,A14,B14,"Enhancing Python Code Security: A Comparison of Machine Learning, ChatGPT, and Static Analysis Methods",INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening IEEE,A15,B15,Harnessing the Power of LLMs in Source Code Vulnerability Detection,INCLUDED,EXCLUDED,Listed among the 13 non-duplicate exclusions in the submitted manuscript.
+Screening IEEE,A16,B16,Improving Smart Contract Analysis with Large Language Models: The SLLM System,INCLUDED,EXCLUDED,Listed among the 13 non-duplicate exclusions in the submitted manuscript.
+Screening IEEE,A17,B17,Analysis of the Effectiveness of Large Language Model Feature in Source Code Defect Detection,INCLUDED,EXCLUDED,Listed among the 13 non-duplicate exclusions in the submitted manuscript.
+Screening IEEE,A18,B18,Graph-Based LLM Prompting for Scalable Microservice API Testing,EXCLUDED,EXCLUDED,Listed among the 13 non-duplicate exclusions in the submitted manuscript.
+Screening WoS,W01,W01,FAMIT: Mitigating False Alarms for Program Analysis Using Large Language Models,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening WoS,W03,W03,Interleaving Static Analysis and LLM Prompting,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening WoS,W04,W04,Large Language Models for Vulnerability Detection in Static Code Analysis: A Survey,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening WoS,W05,W05,Concurrency Bug Detection via Static Analysis and Large Language Models,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening WoS,W06,W06,A Systematic Survey on Large Language Models for Static Code Analysis,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening WoS,W07,W07,Automatically Inspecting Thousands of Static Bug Warnings with Large Language Models,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening WoS,W08,W08,AI-Enhanced Static Analysis: Reducing False Alarms Using Large Language Models,INCLUDED,DUPLICATE_CANDIDATE,Same/near-identical publication title as B06. This title-based reconciliation does not establish the historical stage of removal.
+Screening WoS,W09,W09,Towards More Accurate Static Analysis for Taint-Style Bug Detection in Linux Kernel,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening WoS,W10,W10,VulKiller: Java Web Vulnerability Detection with Code Property Graph and Large Language Models,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening WoS,W11,W11,Large Language Models Versus Static Code Analysis Tools: A Systematic Benchmark for PHP Vulnerability Detection,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening WoS,W12,W12,Augmenting Large Language Models with Static Code Analysis for Automated Code Quality Improvement,INCLUDED,DUPLICATE_CANDIDATE,Same/near-identical publication title as B07. This title-based reconciliation does not establish the historical stage of removal.
+Screening WoS,W13,W13,Using LLMs to Adjudicate Static-Analysis Alerts,INCLUDED,DUPLICATE_CANDIDATE,Same/near-identical publication title as B14. This title-based reconciliation does not establish the historical stage of removal.
+Screening WoS,W14,W14,Improving SAST Detection Capability with LLMs and Enhanced DFA,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening WoS,W18,W18,LAMeD: LLM-generated Annotations for Memory Leak Detection,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening WoS,W19,W19,Detecting State Manipulation Vulnerabilities in Smart Contracts Using LLM and Static Analysis,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening WoS,W20,W20,An empirical study of large language models for type and call graph analysis in Python,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening WoS,W21,W21,Nurturing Code Quality: Leveraging Static Analysis and Large Language Models for Software Improvement,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening WoS,W22,W22,Combining Large Language Models with Static Analyzers for Code Review Generation,INCLUDED,DUPLICATE_CANDIDATE,Same/near-identical publication title as B05. This title-based reconciliation does not establish the historical stage of removal.
+Screening WoS,W24,W24,"LLM-based program analysis for source codes, abstract syntax trees and WebAssembly",INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening WoS,W25,W25,GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Static Analysis,INCLUDED,DUPLICATE_CANDIDATE,Same/near-identical publication title as B13. This title-based reconciliation does not establish the historical stage of removal.
+Screening WoS,W26,W26,Modern Approaches to Software Vulnerability Detection: A Survey of Machine Learning and LLM Methods,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening WoS,W27,W27,SecLLM: Enhancing Security Smell Detection in IaC With Large Language Models,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening WoS,W28,W28,Towards combining chain-of-thought and code static analysis for buffer overflow vulnerability detection,INCLUDED,INCLUDED,Present in the submitted manuscript study table.
+Screening WoS,W02,W02,Assisting Static Analysis with Large Language Models: A ChatGPT Experiment,EXCLUDED,DUPLICATE_CANDIDATE,Same/near-identical publication title as A34. This title-based reconciliation does not establish the historical stage of removal.
+Screening WoS,W15,W15,CASTLE: Benchmarking Dataset for Static Code Analyzers and LLMs Towards CWE Detection,EXCLUDED,DUPLICATE_CANDIDATE,Same/near-identical publication title as A29. This title-based reconciliation does not establish the historical stage of removal.
+Screening WoS,W16,W16,Fact-Aligned and Template-Constrained Static Analyzer Rule Enhancement with LLMs,EXCLUDED,DUPLICATE_CANDIDATE,Same/near-identical publication title as A09. This title-based reconciliation does not establish the historical stage of removal.
+Screening WoS,W17,W17,The Emergence of Large Language Models in Static Analysis: A First Look through Micro-Benchmarks,EXCLUDED,DUPLICATE_CANDIDATE,Same/near-identical publication title as A05. This title-based reconciliation does not establish the historical stage of removal.
+Screening WoS,W23,W23,Boosting Static Resource Leak Detection via LLM-based Resource-Oriented Intention Inference,EXCLUDED,DUPLICATE_CANDIDATE,Same/near-identical publication title as A08. This title-based reconciliation does not establish the historical stage of removal.
+Screening WoS,W29,W29,Machine Learning for Actionable Warning Identification: A Comprehensive Survey,EXCLUDED,NOT_IN_MANUSCRIPT_TABLES,Not present in the submitted included or non-duplicate-exclusion tables. Original record and rationale preserved; no new eligibility decision made.
+Screening WoS,W30,W30,Dataflow Analysis-Inspired Deep Learning for Efficient Vulnerability Detection,EXCLUDED,NOT_IN_MANUSCRIPT_TABLES,Not present in the submitted included or non-duplicate-exclusion tables. Original record and rationale preserved; no new eligibility decision made.

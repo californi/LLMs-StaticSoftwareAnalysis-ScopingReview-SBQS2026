@@ -1,0 +1,14 @@
+ID,Title,Criteria,Rationale,Final Manuscript Status
+A07,Malware Detection and Analysis Using LLMs: A Review of Emerging Trends and Techniques,E4/E5,"LLMs for malware analysis, without static code analysis. ",EXCLUDED
+A10,Hybrid Privacy Policy-Code Consistency Check using Knowledge Graphs and LLMs,E4,Focus on privacy policies. ,EXCLUDED
+A11,LuaTaint: A Static Analysis System for Web Configuration Interface Vulnerability of IoT Devices,E4,Static analysis without LLMs. ,EXCLUDED
+A18,ChatPRE: Knowledge-aware protocol analysis with LLMs for intelligent segmentation,E4,Reverse engineering of network protocols. ,EXCLUDED
+A20,Exploiting Contexts of LLM-based Code-Completion,E5,Attacks on LLM-based code completion. ,EXCLUDED
+A22,Leveraging Human Insights for Enhanced LLM-based Code Repair,E5,Focus on code repair. ,EXCLUDED
+A23,ChatAssert: LLM-Based Test Oracle Generation With External Tools Assistance,E5,Focus on test generation. ,EXCLUDED
+A28,OOPS: Automated generation of REST API specification via LLMs,E4,OpenAPI specification generation. ,EXCLUDED
+A32,Environment-in-The-Loop: Rethinking Code Migration with LLM-based Agents,E5,Focus on code migration. ,EXCLUDED
+B15,LLM-Powered Automated Detection and Optimization of Inference,E4,Inference optimization. ,EXCLUDED
+B16,Analysis of the Effectiveness of Large Language Model Features,E4,"LLM features, without static analysis. ",EXCLUDED
+B17,Leveraging Large Language Models for Automated Bug Detection,E5,Bug detection without static analysis. ,EXCLUDED
+B18,Graph-Based LLM Prompting for Scalable Microservice API Testing,E5,Focus on API testing. ,EXCLUDED

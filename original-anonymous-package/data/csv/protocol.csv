@@ -1,0 +1,25 @@
+Section,Item,Description
+Research Questions,RQ1,"Which static software analysis techniques and tools are reported in the literature, including LLM-based approaches?"
+Research Questions,RQ2,How are LLMs incorporated into static software analysis tasks?
+Research Questions,RQ3,Which types of software issues are addressed by LLM-based approaches?
+Research Questions,RQ4,"Which advantages, limitations, and challenges are reported for using LLMs in static analysis?"
+Research Questions,RQ5,How do conventional static-analysis approaches compare with LLM-based approaches?
+Search Sources,IEEE Xplore,Digital library used for candidate-study retrieval.
+Search Sources,Scopus,Digital library used for candidate-study retrieval.
+Search Sources,Web of Science,Digital library used for candidate-study retrieval.
+Search String,Conceptual query,"(""static analys*"" OR ""static code analys*"" OR ""static analyz*"" OR ""static code analyz*"" OR ""program analys*"") AND (""large language model*"" OR LLM*) AND (""software engineering"" OR ""source code"" OR ""code"") AND NOT (""code generation"" OR fuzzing OR ""test generation"" OR ""unit test"" OR ""deep learning libraries"")"
+Inclusion Criteria,I1,Published between 2021 and 2026.
+Inclusion Criteria,I2,Addresses static software analysis or source-code analysis.
+Inclusion Criteria,I3,"Proposes, evaluates, compares, or discusses the use of LLMs for static analysis."
+Inclusion Criteria,I4,"Describes applications, techniques, tools, advantages, limitations, or challenges related to LLM use in this context."
+Inclusion Criteria,I5,Primary or secondary study relevant to the research questions.
+Inclusion Criteria,I6,Full text available for review.
+Exclusion Criteria,E1,Full text unavailable.
+Exclusion Criteria,E2,Published outside the languages defined by the review protocol.
+Exclusion Criteria,E3,Duplicate publication.
+Exclusion Criteria,E4,Out of scope: does not address LLMs and static software analysis.
+Exclusion Criteria,E5,"Uses LLMs only for code generation, chatbots, testing, or another task without a clear relation to static analysis."
+Exclusion Criteria,E6,Non-peer-reviewed item or item without sufficient technical depth.
+Exclusion Criteria,E7,"Focuses only on dynamic analysis, test execution, or fuzzing without a relation to static analysis."
+Search Execution,Exploratory search window,"June 12 to June 24, 2026."
+Search Execution,Anonymity,"Author names, group names, institutional identifiers, local paths, and personal metadata are not included in this package."

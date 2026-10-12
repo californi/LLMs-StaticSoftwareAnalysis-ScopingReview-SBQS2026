@@ -1,0 +1,16 @@
+Category,Code,Description
+Screening Status,INCLUDED,Candidate study retained for synthesis.
+Screening Status,EXCLUDED,Candidate study excluded during screening or full-text assessment.
+Inclusion Criterion,I1,Published between 2021 and 2026.
+Inclusion Criterion,I2,Addresses static software or source-code analysis.
+Inclusion Criterion,I3,Uses or discusses LLMs in relation to static analysis.
+Inclusion Criterion,I4,"Describes relevant applications, techniques, tools, advantages, limitations, or challenges."
+Inclusion Criterion,I5,Relevant to at least one research question.
+Inclusion Criterion,I6,Full text available.
+Exclusion Criterion,E1,Full text unavailable.
+Exclusion Criterion,E2,Language outside the review scope.
+Exclusion Criterion,E3,Duplicate publication.
+Exclusion Criterion,E4,Out of scope.
+Exclusion Criterion,E5,LLM use not clearly related to static software analysis.
+Exclusion Criterion,E6,Non-peer-reviewed or insufficient technical depth.
+Exclusion Criterion,E7,"Dynamic analysis, testing, or fuzzing only."
