@@ -12,7 +12,7 @@ Replication package for submission #32684, SBQS 2026, Technical Papers Track.
 
 ## Contents and use
 
-- `data/included_studies_58.csv`: index of the same 58 publications listed in the submitted manuscript, with bibliographic metadata from the supplied BibTeX. IEEE IDs are B01–B14, as used in the manuscript.
+- `data/included_studies_58.csv`: index of the same 58 publications listed in the submitted manuscript, with bibliographic metadata from the supplied BibTeX, except A26 publication year updated to 2026 from the publisher’s final record. IEEE IDs are B01–B14, as used in the manuscript.
 - `data/excluded_nonduplicates_13.csv`: the same 13 non-duplicate exclusions in the manuscript.
 - `data/candidate_reconciliation_83.csv`: an explicit comparison of all 83 original candidate records with the manuscript tables. Original IEEE IDs A01–A18 are mapped to manuscript IDs B01–B18.
 - `original-anonymous-package/`: preservation copy of the publicly available review package. Its workbook, CSVs, original names, statuses, and checksums have been retained. Anonymous identity labels inside these historical files describe the earlier version; the authors of this package are identified above.

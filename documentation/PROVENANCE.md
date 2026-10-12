@@ -13,3 +13,5 @@ Author names/order follow the user-supplied JEMS submission page. Institutional 
 - Márcio Ribeiro/UFAL: https://sigaa.sig.ufal.br/sigaa/public/docente/pesquisa.jsf?siape=1741806 ; https://ic.ufal.br/en/pos-graduacao/informatics/laboratories-and-research-groups
 
 The Gemini workflow declaration is based on the author's confirmation in this preparation session. Prompts, model versions, and original interaction logs were not supplied.
+
+Bibliographic correction for A26: final publisher record https://www.techscience.com/cmc/v86n3/65509 confirms 2026, 86(3), citation locator 11. Original Crossref/early-publication fields 2025, volume 0 and issue 0 were superseded only in the manuscript and derived index.
