@@ -17,3 +17,9 @@ The AI-use declaration follows the clarification from Yasmin and Gustavo relayed
 Bibliographic correction for A26: final publisher record https://www.techscience.com/cmc/v86n3/65509 confirms 2026, 86(3), citation locator 11. Original Crossref/early-publication fields 2025, volume 0 and issue 0 were superseded only in the manuscript and derived index.
 
 Bibliographic correction for B14: the published HICSS PDF lists Will Klieber first and Lori Flynn second, with pages 7556–7565. https://scholarspace.manoa.hawaii.edu/items/42b220fa-17f8-4cfe-9f2b-ba4553e21bc3 . The derived index and manuscript use this order; the original candidate workbook remains untouched. The lookup corrects metadata of an existing corpus member and does not add a study.
+
+## Study-type correction for B11 — 2026-10-13
+
+B11 (Mahyari, Harnessing the Power of LLMs in Source Code Vulnerability Detection) presents a method trained on LLVM intermediate representations and an experimental evaluation. Its inherited Survey label was corrected to Method in the derived index and manuscript. The retained corpus is still 58 publications, with 5 surveys. Eligibility, RQ labels, and the original candidate files are unchanged. Source: https://arxiv.org/abs/2408.03489 .
+
+Bibliographic corrections checked on 2026-10-13: W21 has one author, Eman Abdullah AlOmar (https://researchwith.stevens.edu/en/publications/nurturing-code-quality-leveraging-static-analysis-and-large-langu/). W18 names Anton Alekseev, Alexey Rukhovich and Irina Piontkovskaya follow the authors' version and publisher-deposited DOI metadata (10.1145/3756681.3756999). W28 uses all seven authors and the final 2026 volume citation, while its online release was in 2025 (https://link.springer.com/article/10.1007/s11219-025-09733-4). These changes correct fields of existing publications; original candidate records and eligibility are unchanged.
